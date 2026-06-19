@@ -1,0 +1,16 @@
+{
+  "total_cancellations": 10,
+  "cancellations_by_room": {
+    "RM004": 1,
+    "RM006": 1,
+    "RM008": 1,
+    "RM011": 1,
+    "RM013": 1,
+    "RM015": 1,
+    "RM020": 1,
+    "RM022": 1,
+    "RM027": 1,
+    "RM029": 1
+  },
+  "flagged_rooms": []
+}

@@ -1,0 +1,4 @@
+room_type,total_rooms,period_days,occupied_nights,available_room_nights,occupancy_rate
+DELUXE,9,25,61,225,27.11
+STANDARD,9,25,57,225,25.33
+SUITE,9,25,54,225,24.0
