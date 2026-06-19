@@ -47,7 +47,7 @@ User Story24/
 * **Booking Volume & Status**: Status distribution pie charts, cumulative volume area charts, and daily check-in trendlines.
 * **Cancellation Risk Profiles**: Room-type cancellation rates and flagged risk list.
 * **Data Quality & Validation**: Deep-dive audit trail to inspect rejected bookings, showing invalid inputs and error messages.
-* **Granular Filtering**: Search by Booking/Room ID, filter by check-in date range, room type, booking status, revenue threshold, and a dedicated **Drill-down Room Type Focus**.
+* **Granular Filtering**: Search by Booking/Room ID, filter by check-in date range, room type, booking status and a dedicated **Drill-down Room Type Focus**.
 
 ---
 
